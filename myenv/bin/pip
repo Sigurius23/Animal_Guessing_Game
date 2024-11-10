@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/sigur/ai and the web/task1-template/myenv/bin/python" "$0" "$@"
+'''exec' "/Users/sigur/ai and the web/task1-template-Animal_game-version/myenv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/sigur/ai and the web/task1-template/myenv"
+VIRTUAL_ENV="/Users/sigur/ai and the web/task1-template-Animal_game-version/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

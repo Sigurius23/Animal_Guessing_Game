@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/sigur/ai and the web/task1-template/myenv"
+set -gx VIRTUAL_ENV "/Users/sigur/ai and the web/task1-template-Animal_game-version/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
